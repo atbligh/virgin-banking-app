@@ -1,0 +1,5 @@
+Transaction Date,Vendor,Type,Amount,Category
+01/Nov/2020,Morrisons,card,£10.40,Groceries
+02/Nov/2020,Tesco,card,£25.31,Groceries
+05/Nov/2020,Shell Garage,card,£50,Vehicle
+06/Nov/2020,PureGym,direct debit,£38.50,Health

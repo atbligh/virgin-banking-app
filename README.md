@@ -1,0 +1,78 @@
+# Getting Started
+
+### Requirements
+- Java 21
+- Maven 3.8+
+
+This is a ```Maven Spring Boot``` project that can be run:
+
+- via an IDE e.g. Intellij
+- command line from project root: ```mvn spring-boot:run```
+- as a Docker container from project root: ```docker compose -f docker-compose.yml up``` (required Docker Desktop to be installed)
+
+Swagger UI: http://localhost:8080/banking-app/swagger-ui/index.html
+
+OpenAPI Description: http://localhost:8080/banking-app/v3/api-docs
+
+Use the RESTful endpoint: http://localhost:8080/banking-app/transaction/all to get all transactions
+and then use the other RESTful endpoints (see swagger UI above) to get specific data for categories and years.
+
+### Technologies & Frameworks Used
+
+- Java 21
+- Spring Boot
+- Maven
+- Swagger
+- OpenAPI
+- JUnit
+- Mockito
+- Lombok
+
+### Application Architecture
+
+The application is a RESTful API that uses Spring Boot to expose endpoints for getting
+transaction data.
+
+The application is structured in 3 logical layers:
+
+- Controller: Exposes the RESTful endpoints
+- Service: Contains the business logic
+- Data: Contains the data loading logic
+
+```BigDecimal``` is used to represent monetary values to avoid floating point precision issues.
+
+```MoneyUtils``` is used to format/parse the monetary values, ensuring that they are always rounded uniformly and scaled to 2 decimal places.
+
+The bulk of the application business logic is contained with the ```TransactionServiceImpl``` class.
+
+#### Data Loading
+
+Data loading is interfaced and is currently loaded from a CSV file. To add another data loader:
+
+- implement the ```DataLoader``` interface
+- Annotate with the  ```@Service``` annotation and add a qualifying name use ```CsvDataLoader``` as an example
+- Set the ```app.data-type``` property in ```application.properties``` to the qualifying name of the new data loader
+- The bean factory will automatically pick this up and use it to load data when the application runs, see ```AppConfig.dataLoader()```
+
+### Testing
+
+Constructor dependency injection is used to allow ease of testing.
+
+#### Unit Tests
+
+Unit tests are located in the ```src/test ``` directory and can be run independently of integration tests using the ```maven-surefire-plugin```.
+Unit tests are run during the Maven ```test```.
+
+#### Integration Tests
+
+Integration tests are kept separately from unit tests and are located in the ```src/integration-test``` directory. Integration tests class
+names must be suffixed with '```IT```' e.g. ```TransactionControllerIT```. This ensures they are not run with unit tests during the Maven ```test``` phase.
+The ```maven-failsafe-plugin``` runs the integration tests during the Maven ```integration-test``` and ```verify``` phases.
+
+### Next Steps
+
+- Complete the tests in ```TransactionControllerTest``` and ```TransactionControllerIT```, there are ```TODO``` comments these classes for this.
+- Replace the CSV data loading with a dedicated/separate data source
+- Add a front end user interface
+- Add RESTful endpoint security
+- Build out a CI/CD pipeline
