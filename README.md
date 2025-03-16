@@ -54,7 +54,9 @@ The bulk of the application business logic is contained with the ```TransactionS
 The application locale is set by the property ```app.locale``` and is currently set to ```en_GB```. The locale is used to derive the currency symbol and load date data. 
 Dates in the ```en_GB``` locale use ```Sept``` for date months (```MMM```) not ```Sep```. To facilitate ```Sep``` the ```en_US``` locale would need to be used. This has
 not been tested yet but in theory you could change this to ```en_US``` (or any locale) and load data with monetary amounts using the currency symbol of that locale. 
-With more time this dynamic locale support could be refined and fully tested.
+With more time this dynamic locale support could be refined and fully tested. This could be further split into a locale for the application and a locale for data loading
+to allow data loading in one locale and then API responses in another locale. In may even be better to have the API responses locale agnostic (no currency symbol),
+allowing the calling process/application to decide this.
 
 #### Data Loading
 
