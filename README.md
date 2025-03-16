@@ -54,6 +54,10 @@ Data loading is interfaced and is currently loaded from a CSV file. To add anoth
 - Set the ```app.data-type``` property in ```application.properties``` to the qualifying name of the new data loader
 - The bean factory will automatically pick this up and use it to load data when the application runs, see ```AppConfig.dataLoader()```
 
+<b>NOTE:</b> The application currently loads data using the ```en_GB``` locale which uses ```Sept``` for dates. To facilitate ```Sep``` the ```en_US``` 
+locale would need to be used. Configuration could be put in around this which could also allow dynamic setting of the currency symbol to use via
+the ```java.util.Currency``` class.
+
 ### Testing
 
 Constructor dependency injection is used to allow ease of testing.
@@ -73,6 +77,7 @@ The ```maven-failsafe-plugin``` runs the integration tests during the Maven ```i
 
 - Complete the tests in ```TransactionControllerTest``` and ```TransactionControllerIT```, there are ```TODO``` comments these classes for this
 - Add more unit tests to enhance application robustness
+- Add locale configuration for currency symbol and date loading (dates)
 - Replace the CSV data loading with a dedicated/separate data source
 - Possibly enhance the average spend per month for category endpoint to also group by year, the spec wasn't clear on that
 - Add a front end user interface
