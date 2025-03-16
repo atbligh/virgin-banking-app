@@ -15,7 +15,6 @@ import java.util.Locale;
 public class BankingApplication {
 
 	public static void main(String[] args) {
-		Locale.setDefault(LocaleUtils.toLocale("en_GB"));
 		SpringApplication.run(BankingApplication.class, args);
 	}
 }
