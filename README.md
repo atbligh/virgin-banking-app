@@ -17,6 +17,10 @@ OpenAPI Description: http://localhost:8080/banking-app/v3/api-docs
 Use the RESTful endpoint: http://localhost:8080/banking-app/transaction/all to get all transactions
 and then use the other RESTful endpoints (see swagger UI above) to get specific data for categories and years.
 
+There are currently 500 data records with the following categories:
+
+[Jewelry, Industrial, Tools, Home, Health, Toys, Games, Shoes, Kids, Movies, Sports, Grocery, Automotive, Computers, Beauty, Baby, Music, Clothing, Outdoors, Garden, Books, Electronics]
+
 ### Technologies & Frameworks Used
 
 - Java 21
