@@ -54,9 +54,9 @@ Data loading is interfaced and is currently loaded from a CSV file. To add anoth
 - Set the ```app.data-type``` property in ```application.properties``` to the qualifying name of the new data loader
 - The bean factory will automatically pick this up and use it to load data when the application runs, see ```AppConfig.dataLoader()```
 
-<b>NOTE:</b> The application currently loads data using the ```en_GB``` locale which uses ```Sept``` for dates. To facilitate ```Sep``` the ```en_US``` 
-locale would need to be used. Configuration could be put in around this which could also allow dynamic setting of the currency symbol to use via
-the ```java.util.Currency``` class.
+<b>NOTE:</b> The application currently uses the ```en_GB``` locale  to derive the currency symbol and load date data. Dates in the ```en_GB``` locale 
+use ```Sept``` for date months (```MMM```) not ```Sep```. To facilitate ```Sep``` the ```en_US``` locale would need to be used. Locale configuration 
+could be added which would allow loading data and displaying monetary amounts in other locales.
 
 ### Testing
 
