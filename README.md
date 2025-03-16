@@ -49,6 +49,13 @@ The application is structured in 3 logical layers:
 
 The bulk of the application business logic is contained with the ```TransactionServiceImpl``` class.
 
+#### Locales
+
+The application locale is set by the property ```app.locale``` and is currently set to ```en_GB```. The locale is used to derive the currency symbol and load date data. 
+Dates in the ```en_GB``` locale use ```Sept``` for date months (```MMM```) not ```Sep```. To facilitate ```Sep``` the ```en_US``` locale would need to be used. This has
+not been tested yet but in theory you could change this to ```en_US``` (or any locale) and load data with monetary amounts using the currency symbol of that locale. 
+With more time this dynamic locale support could be refined and fully tested.
+
 #### Data Loading
 
 Data loading is interfaced and is currently loaded from a CSV file. To add another data loader:
@@ -57,10 +64,6 @@ Data loading is interfaced and is currently loaded from a CSV file. To add anoth
 - Annotate with the  ```@Service``` annotation and add a qualifying name use ```CsvDataLoader``` as an example
 - Set the ```app.data-type``` property in ```application.properties``` to the qualifying name of the new data loader
 - The bean factory will automatically pick this up and use it to load data when the application runs, see ```AppConfig.dataLoader()```
-
-<b>NOTE:</b> The application currently uses the ```en_GB``` locale  to derive the currency symbol and load date data. Dates in the ```en_GB``` locale 
-use ```Sept``` for date months (```MMM```) not ```Sep```. To facilitate ```Sep``` the ```en_US``` locale would need to be used. Locale configuration 
-could be added which would allow loading data and displaying monetary amounts in other locales.
 
 ### Testing
 
