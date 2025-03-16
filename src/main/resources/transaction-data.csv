@@ -1,5 +1,501 @@
 Transaction Date,Vendor,Type,Amount,Category
-01/Nov/2020,Morrisons,card,£10.40,Groceries
-02/Nov/2020,Tesco,card,£25.31,Groceries
-05/Nov/2020,Shell Garage,card,£50,Vehicle
-06/Nov/2020,PureGym,direct debit,£38.50,Health
+19/Nov/2021,"Jaskolski, Dickens and Ledner",direct debit,£16.06,Jewelry
+19/Jun/2022,"Weber, Bruen and Hansen",card,£24.05,Industrial
+10/Oct/2023,"Grady, Abbott and Keeling",card,£41.12,Tools
+21/Jun/2020,Krajcik-Stracke,internet,£38.98,Home
+09/Jul/2023,Johnson-Luettgen,direct debit,£3.59,Health
+28/Jun/2022,O'Reilly Inc,card,£20.62,Toys
+16/Dec/2020,Frami and Sons,card,£12.31,Tools
+26/Oct/2024,Moen-Hermiston,card,£39.92,Industrial
+06/Feb/2020,Cormier-Schaden,internet,£6.58,Games
+30/Jun/2021,"Kovacek, Brown and Lueilwitz",internet,£13.61,Shoes
+22/Dec/2021,"Lockman, Heidenreich and Howell",internet,£31.61,Tools
+23/Feb/2021,Okuneva LLC,card,£19.23,Kids
+22/May/2020,Lowe-Corkery,card,£36.62,Movies
+07/Nov/2024,Gusikowski-Farrell,card,£22.61,Sports
+12/Mar/2020,Torp-Price,internet,£48.30,Grocery
+29/Jan/2023,Miller Inc,internet,£10.16,Automotive
+08/Jan/2022,Pagac and Sons,direct debit,£34.71,Automotive
+11/Mar/2020,"Hammes, Grimes and Mills",direct debit,£45.77,Industrial
+21/Aug/2024,Hilpert and Sons,internet,£23.27,Grocery
+18/Jun/2024,Leffler and Sons,card,£41.27,Computers
+18/Jul/2023,"Balistreri, Dickinson and Orn",direct debit,£4.52,Home
+24/May/2023,"Huel, Kautzer and Hermiston",card,£27.79,Kids
+24/Jan/2020,"Kohler, Kling and Herzog",direct debit,£13.61,Beauty
+27/Jul/2021,"Ritchie, Crona and Hane",internet,£26.47,Kids
+09/Jan/2021,Bechtelar-Kuhn,card,£44.14,Baby
+16/Aug/2024,"Bailey, Keebler and Volkman",card,£39.71,Shoes
+15/May/2020,Watsica Group,card,£17.27,Music
+21/May/2024,"Okuneva, Bins and Bartoletti",direct debit,£12.97,Clothing
+12/Nov/2024,"Shields, Hirthe and Schuppe",card,£1.69,Sports
+02/Nov/2021,"Rodriguez, Fritsch and Wuckert",direct debit,£6.56,Health
+02/Aug/2020,"Gottlieb, Kihn and Torp",internet,£19.29,Kids
+20/Aug/2021,"Reilly, Wilderman and O'Kon",card,£15.91,Movies
+15/Mar/2023,"Corkery, Parker and Kreiger",card,£29.45,Games
+05/Dec/2022,Hammes Group,internet,£49.38,Tools
+25/Apr/2020,Hodkiewicz and Sons,card,£38.72,Clothing
+29/Jan/2020,Pacocha-Kutch,direct debit,£48.40,Movies
+16/Oct/2024,Walsh-Waelchi,internet,£32.63,Clothing
+28/Sep/2022,Wolff LLC,direct debit,£13.38,Computers
+29/Jun/2021,Wilderman Group,internet,£11.13,Automotive
+19/Sep/2023,Douglas Group,card,£13.18,Outdoors
+15/Mar/2020,Bergnaum-Mayert,internet,£7.23,Tools
+20/Feb/2023,Williamson-Sporer,card,£13.34,Health
+25/Aug/2023,Schowalter Inc,card,£34.33,Automotive
+12/Jan/2022,"Labadie, Marks and Watsica",internet,£41.56,Home
+06/Aug/2022,Erdman Group,direct debit,£41.74,Automotive
+23/Apr/2020,Ward-Kshlerin,internet,£14.65,Clothing
+25/Apr/2020,Witting-Pagac,card,£11.89,Jewelry
+17/Oct/2020,"Schroeder, Rutherford and Rice",internet,£16.39,Garden
+14/Nov/2024,"Nolan, Greenholt and Cole",internet,£38.66,Baby
+09/Nov/2021,Bergnaum-Cummings,card,£28.29,Garden
+04/May/2022,Spinka-Kuvalis,card,£3.63,Clothing
+16/Aug/2022,"Marquardt, Reichel and Brown",card,£18.80,Games
+04/Sep/2021,Ferry-Grimes,direct debit,£16.61,Music
+05/Mar/2022,"Dooley, Bayer and Hettinger",direct debit,£11.53,Clothing
+01/Jan/2020,"Sanford, Will and Hilpert",direct debit,£5.05,Kids
+18/Dec/2024,McGlynn-Klein,internet,£12.58,Tools
+03/Jan/2022,Langworth-Dooley,card,£41.22,Music
+31/Jul/2022,Roberts LLC,direct debit,£8.95,Computers
+13/Apr/2022,Mitchell Inc,direct debit,£41.59,Grocery
+11/Oct/2022,Gerlach Inc,card,£43.57,Automotive
+04/Apr/2022,"Wiza, Kris and Jenkins",direct debit,£16.00,Games
+24/Nov/2020,O'Kon-Hackett,direct debit,£34.91,Baby
+19/May/2020,Morar and Sons,direct debit,£12.01,Baby
+05/Mar/2022,"Cassin, Dickinson and Bins",internet,£38.98,Home
+28/May/2024,"Osinski, Hessel and Lind",direct debit,£36.81,Beauty
+04/Mar/2022,Goyette LLC,internet,£31.25,Automotive
+13/May/2020,"DuBuque, Klein and Treutel",internet,£21.83,Tools
+09/Aug/2022,Schmitt-Bradtke,card,£45.45,Automotive
+15/Oct/2024,Roob-Pouros,direct debit,£15.39,Games
+27/Sep/2024,Becker-Satterfield,internet,£49.48,Grocery
+05/Nov/2024,"Witting, Macejkovic and Willms",direct debit,£32.47,Toys
+02/Mar/2023,Christiansen LLC,internet,£42.12,Games
+24/Oct/2024,Oberbrunner Group,internet,£34.36,Beauty
+31/May/2021,Romaguera-Kozey,direct debit,£48.87,Sports
+30/Sep/2021,Bode Inc,internet,£34.52,Sports
+16/Jul/2020,"Boyer, Jakubowski and Armstrong",internet,£6.08,Sports
+04/Jan/2024,Tillman-Olson,card,£30.12,Jewelry
+13/Mar/2021,Powlowski-Wiza,internet,£10.92,Games
+14/Feb/2022,"Hickle, Abernathy and Welch",direct debit,£14.47,Shoes
+17/Apr/2021,"Johnson, Greenfelder and Gerhold",card,£10.50,Computers
+29/Nov/2023,Kiehn Inc,direct debit,£26.07,Books
+29/Jun/2024,Murphy-Harris,direct debit,£5.72,Books
+01/Dec/2021,Dickens LLC,internet,£43.45,Music
+11/Apr/2023,"Denesik, Kemmer and Sporer",direct debit,£25.65,Books
+17/Aug/2020,Ward Inc,internet,£26.53,Clothing
+21/Mar/2022,"Gottlieb, Haag and Bode",internet,£18.62,Movies
+19/Dec/2024,Pfannerstill-O'Reilly,card,£9.33,Baby
+15/Jul/2020,Nitzsche-Rohan,internet,£34.08,Toys
+07/Sep/2020,Wiza-McDermott,card,£28.53,Grocery
+05/Nov/2021,Weimann-Bode,card,£45.61,Health
+01/Oct/2021,Larkin LLC,card,£42.20,Computers
+05/Jun/2022,"Hickle, Zboncak and Farrell",internet,£11.26,Toys
+23/Apr/2024,"Cremin, Berge and Walter",direct debit,£21.54,Industrial
+14/May/2024,Schuster-Mante,direct debit,£21.01,Clothing
+19/Dec/2024,Leffler-Corwin,card,£21.93,Computers
+19/Sep/2020,"Paucek, Bartoletti and Cummerata",internet,£39.89,Baby
+27/Oct/2022,"Renner, Buckridge and Cremin",direct debit,£21.91,Toys
+21/Sep/2020,Stroman Inc,internet,£13.62,Industrial
+16/Feb/2020,Walter LLC,direct debit,£29.98,Baby
+09/Sep/2022,Cruickshank-Bernhard,direct debit,£19.93,Games
+25/Feb/2021,Johnson-Lemke,direct debit,£2.55,Baby
+03/Nov/2021,Thiel-Glover,internet,£6.03,Clothing
+22/Sep/2021,Williamson-Stehr,internet,£42.00,Garden
+02/Oct/2022,"Considine, Marquardt and Gulgowski",internet,£29.80,Shoes
+04/Apr/2023,"Ryan, Towne and Feeney",card,£14.32,Books
+01/Mar/2024,"Wolf, Ondricka and Turcotte",internet,£46.40,Kids
+19/Mar/2021,Kassulke-Hauck,internet,£7.69,Garden
+09/Mar/2022,"Trantow, McCullough and Wintheiser",internet,£24.86,Movies
+27/Feb/2021,"Pouros, Walker and Quigley",direct debit,£44.35,Electronics
+12/Apr/2023,Heathcote-Mayer,internet,£24.36,Electronics
+29/Jul/2020,Mitchell Inc,internet,£13.15,Shoes
+01/Oct/2022,Robel and Sons,direct debit,£16.54,Clothing
+27/Dec/2022,Auer-Cassin,direct debit,£20.74,Jewelry
+25/Feb/2024,Wintheiser Group,card,£20.18,Shoes
+09/May/2024,Aufderhar-Windler,card,£19.58,Sports
+13/May/2022,Ankunding Group,direct debit,£16.91,Outdoors
+03/Feb/2021,Padberg-Daniel,card,£45.74,Games
+27/Oct/2024,Hane LLC,internet,£39.04,Industrial
+11/Sep/2024,Yost Group,internet,£11.87,Health
+25/Jul/2023,Ritchie Group,card,£28.30,Home
+15/Jul/2021,"Ullrich, Bernhard and Jakubowski",card,£11.45,Computers
+20/Nov/2024,"West, Davis and Schmidt",card,£46.12,Electronics
+11/Nov/2022,Feeney Group,internet,£14.04,Books
+11/Mar/2023,Grant-Hansen,direct debit,£33.85,Clothing
+18/Mar/2022,Lueilwitz-Hintz,internet,£25.72,Movies
+05/Feb/2024,"Zemlak, Sawayn and Spinka",internet,£6.34,Automotive
+19/Oct/2023,Senger LLC,card,£34.58,Home
+24/Oct/2024,"Schulist, Schuppe and Reichel",direct debit,£23.70,Games
+08/Apr/2020,Champlin-Raynor,internet,£30.93,Music
+24/Aug/2021,Mann Group,card,£27.11,Shoes
+08/May/2022,Hauck Group,card,£4.78,Shoes
+18/Nov/2023,Stanton-Bradtke,direct debit,£4.57,Baby
+21/May/2022,"Rosenbaum, Schmidt and Waters",internet,£45.96,Electronics
+12/Aug/2024,Rogahn Inc,direct debit,£3.32,Grocery
+15/May/2024,Yundt Group,internet,£5.38,Clothing
+03/Nov/2023,Bechtelar-Yundt,internet,£44.64,Industrial
+04/Jul/2024,Lindgren Group,internet,£25.99,Home
+13/May/2022,"Robel, Okuneva and Keeling",internet,£33.72,Movies
+01/Oct/2022,Williamson Inc,direct debit,£48.48,Kids
+26/Mar/2022,Cremin and Sons,card,£14.49,Industrial
+31/Jan/2021,"Stokes, Wolff and Heathcote",internet,£19.83,Garden
+29/Jul/2022,Labadie Inc,direct debit,£47.03,Industrial
+16/Oct/2020,Raynor-Schamberger,direct debit,£39.26,Beauty
+27/Jan/2022,"D'Amore, Keebler and Gottlieb",card,£20.27,Books
+02/Jun/2022,"Green, Simonis and Leffler",card,£17.37,Home
+23/May/2024,"Kub, Torphy and Koepp",direct debit,£8.30,Automotive
+28/Apr/2021,"Kub, Rowe and Mraz",internet,£9.71,Baby
+02/Jul/2020,Stroman Group,direct debit,£6.25,Beauty
+18/Apr/2020,"Schmitt, Huels and Lemke",card,£6.34,Shoes
+01/Mar/2022,Weissnat-Nienow,card,£23.32,Kids
+07/Jun/2023,Shields Group,card,£3.48,Outdoors
+20/Jun/2020,Labadie Inc,card,£10.01,Music
+26/Oct/2024,Pfeffer Group,direct debit,£5.01,Grocery
+30/Nov/2023,Brown-Stehr,internet,£26.49,Books
+24/Aug/2024,Koepp-Emard,internet,£49.71,Movies
+12/Apr/2021,Hegmann-Rogahn,direct debit,£49.87,Beauty
+28/Jan/2021,Huel LLC,direct debit,£13.38,Health
+13/Aug/2022,"Christiansen, Ankunding and Senger",card,£10.59,Computers
+02/Jul/2022,Koepp-Beier,card,£15.71,Jewelry
+17/May/2020,"Feeney, Spencer and Baumbach",card,£38.37,Shoes
+30/Aug/2021,"Feil, Huel and Smith",internet,£17.28,Kids
+01/Sep/2020,Sipes Inc,direct debit,£31.49,Automotive
+07/May/2023,Murray Inc,card,£26.47,Automotive
+03/Jul/2024,O'Reilly Inc,internet,£31.58,Kids
+15/Dec/2021,Boehm-Labadie,direct debit,£43.47,Outdoors
+11/Jul/2024,Thiel-Wilderman,card,£10.22,Garden
+25/May/2020,Roob and Sons,direct debit,£10.22,Industrial
+17/Jun/2020,Runolfsson Group,direct debit,£31.08,Computers
+06/Jul/2020,Daugherty LLC,card,£25.42,Tools
+14/Apr/2020,Franecki Group,card,£6.26,Shoes
+06/Aug/2022,Wehner-Welch,card,£3.04,Grocery
+11/Dec/2023,Kuhn-Greenfelder,card,£25.84,Baby
+01/Apr/2023,Witting-Stiedemann,internet,£11.68,Garden
+06/May/2021,Kuphal Inc,card,£22.60,Music
+02/Apr/2021,Crona and Sons,direct debit,£25.77,Industrial
+22/Jul/2023,"Hettinger, O'Conner and Hagenes",internet,£41.16,Computers
+25/Jan/2024,Schneider-Schmeler,direct debit,£3.56,Toys
+18/Sep/2021,"Towne, Howe and Weber",internet,£1.86,Books
+23/Jul/2020,Hyatt Group,direct debit,£27.65,Beauty
+02/Jul/2024,Herzog Inc,internet,£32.73,Automotive
+22/May/2020,"Reichel, Herzog and Lebsack",internet,£9.65,Shoes
+27/Dec/2022,Macejkovic-O'Conner,internet,£37.44,Shoes
+12/Sep/2021,"Koch, Kub and Batz",internet,£32.03,Grocery
+25/Jul/2023,Cormier-Sporer,internet,£29.71,Health
+25/Jun/2024,Collins-Block,internet,£14.40,Industrial
+12/Oct/2022,Barton and Sons,internet,£34.82,Health
+23/Jun/2020,"Ledner, Parisian and Blick",internet,£13.64,Clothing
+12/Aug/2023,"Mayert, Zboncak and Kulas",internet,£46.28,Shoes
+27/Mar/2021,Rowe-Thiel,internet,£24.54,Garden
+12/Jan/2020,"Prosacco, Hegmann and Kilback",card,£5.96,Industrial
+17/Jan/2023,Hackett-Dicki,internet,£23.19,Books
+24/Mar/2022,"Kuhic, Nienow and Green",card,£49.31,Shoes
+06/Feb/2022,Bartoletti Inc,internet,£8.61,Kids
+20/Nov/2022,"Fritsch, Crona and McClure",internet,£10.16,Toys
+27/Jul/2021,"Sawayn, Schuster and Stehr",direct debit,£31.08,Sports
+23/May/2020,Kozey and Sons,card,£34.11,Garden
+11/Jun/2020,Kiehn-Reichel,direct debit,£22.73,Automotive
+09/Mar/2021,"Cormier, Beatty and Raynor",internet,£37.49,Books
+19/Feb/2023,"Reilly, Luettgen and Muller",internet,£19.78,Sports
+19/Feb/2020,McGlynn-Anderson,direct debit,£44.95,Automotive
+04/Sep/2024,Bailey-Cruickshank,internet,£2.03,Sports
+16/Jul/2022,Stanton-Boyer,internet,£23.65,Kids
+21/Aug/2020,Towne Inc,internet,£15.33,Automotive
+22/Apr/2024,Robel-Padberg,card,£28.50,Kids
+23/Apr/2022,"McKenzie, Considine and Cummings",internet,£45.13,Health
+10/Aug/2021,"Stamm, Littel and Ullrich",card,£9.66,Industrial
+27/Nov/2022,Bartoletti Group,direct debit,£26.10,Industrial
+13/Apr/2020,Kassulke-Lesch,direct debit,£40.88,Industrial
+19/Sep/2020,"Zulauf, Fadel and Davis",card,£11.86,Home
+01/Apr/2023,Blick Inc,internet,£36.58,Music
+04/Sep/2022,Schumm Group,direct debit,£13.57,Toys
+04/Aug/2021,Balistreri-Hettinger,direct debit,£43.45,Jewelry
+29/May/2020,Durgan-Fahey,internet,£17.23,Music
+15/Jan/2024,"Gutkowski, Carter and Murphy",direct debit,£23.94,Books
+07/Dec/2022,"Schaden, Hammes and Fisher",direct debit,£18.79,Tools
+13/Dec/2022,"Weber, Purdy and Sanford",internet,£3.28,Movies
+12/May/2023,Effertz and Sons,internet,£20.52,Kids
+18/Dec/2023,Bernier-Littel,direct debit,£24.46,Baby
+07/Jan/2023,Jacobson-Kovacek,internet,£35.88,Outdoors
+08/Nov/2021,Bernhard-Schmitt,direct debit,£33.68,Outdoors
+26/Mar/2021,Kautzer and Sons,internet,£2.03,Home
+06/Sep/2024,Kuphal-Schneider,direct debit,£47.92,Music
+15/Oct/2023,Ziemann Inc,internet,£49.86,Music
+27/Nov/2022,Von LLC,internet,£40.02,Movies
+17/Sep/2021,"Klein, Nitzsche and Kovacek",direct debit,£27.08,Outdoors
+28/Nov/2020,"Fadel, Kilback and Rodriguez",card,£44.95,Kids
+22/Aug/2022,"Ortiz, Bradtke and Haley",direct debit,£49.39,Automotive
+06/Oct/2020,Grant-Kuhic,card,£20.00,Health
+16/Sep/2020,"Klocko, Bernhard and Beier",internet,£39.66,Tools
+12/Aug/2020,Walter and Sons,card,£43.89,Health
+27/Jan/2023,"Donnelly, Lueilwitz and Rau",direct debit,£22.31,Health
+23/Aug/2022,"Anderson, Cole and Howell",direct debit,£26.71,Beauty
+05/Mar/2023,"O'Reilly, Gleichner and Brown",internet,£38.08,Clothing
+24/May/2024,Gusikowski and Sons,direct debit,£29.73,Movies
+10/Jan/2021,Aufderhar-Wolf,direct debit,£37.64,Toys
+28/May/2023,Leannon Inc,card,£10.91,Jewelry
+16/Aug/2022,Ruecker-Bosco,internet,£44.31,Movies
+27/Sep/2022,Douglas-Feest,card,£48.18,Sports
+17/Jun/2021,Rohan Inc,internet,£9.91,Clothing
+01/Aug/2022,Trantow and Sons,internet,£20.60,Grocery
+18/Oct/2021,"Kemmer, Mills and Gusikowski",direct debit,£30.50,Sports
+28/Oct/2023,Bogan LLC,card,£42.67,Baby
+01/Sep/2022,"Stark, Bernier and Kihn",card,£9.78,Computers
+15/Jun/2024,Fay and Sons,direct debit,£23.64,Sports
+02/Jul/2020,Murazik-Muller,internet,£5.52,Automotive
+17/Nov/2021,"Schmidt, Schmidt and Carroll",direct debit,£1.05,Jewelry
+15/Feb/2023,"O'Connell, Parisian and Bailey",card,£11.14,Clothing
+10/Nov/2024,"Graham, Krajcik and MacGyver",internet,£30.74,Garden
+14/Dec/2020,Aufderhar and Sons,internet,£23.68,Games
+01/Jan/2024,Gerlach Inc,card,£37.55,Books
+25/Nov/2024,Block-Schumm,card,£48.43,Jewelry
+23/Jul/2022,Effertz-Hermann,direct debit,£31.76,Books
+25/Nov/2023,Friesen-Lueilwitz,internet,£2.79,Games
+04/Jun/2020,Mitchell Inc,card,£23.31,Automotive
+30/Nov/2020,"Hudson, Waters and Flatley",direct debit,£8.55,Tools
+28/Sep/2022,"Yost, Veum and Weimann",card,£46.16,Shoes
+08/Mar/2022,Schmitt and Sons,card,£49.90,Clothing
+18/Jul/2024,"Nolan, Ernser and Kilback",card,£11.13,Movies
+20/Dec/2022,Abshire-Kuhlman,card,£18.12,Garden
+20/Apr/2022,Keeling-Muller,internet,£3.95,Electronics
+28/Nov/2023,"Lehner, Fahey and Runolfsson",card,£38.04,Home
+22/Dec/2022,Kuvalis-Hilpert,direct debit,£18.79,Shoes
+24/Dec/2020,"Tremblay, Bins and Paucek",internet,£19.31,Toys
+15/May/2020,Nitzsche Inc,direct debit,£18.55,Music
+19/Jun/2021,"Stoltenberg, Watsica and Ruecker",direct debit,£18.85,Automotive
+22/Jan/2024,"Bailey, McClure and Hane",direct debit,£8.79,Sports
+11/Jan/2020,Powlowski and Sons,internet,£42.47,Games
+30/Mar/2021,Labadie-Bruen,direct debit,£9.43,Sports
+29/Dec/2021,Halvorson-Kohler,card,£12.50,Kids
+03/Jan/2022,"Hermiston, Gleason and Ernser",internet,£3.41,Music
+21/Sep/2023,Franecki Group,internet,£19.64,Movies
+01/Nov/2022,Stoltenberg-Kunde,card,£45.05,Baby
+01/Apr/2020,Bernier-Hayes,card,£29.36,Jewelry
+21/Dec/2024,Carroll-Roob,card,£16.11,Sports
+20/Oct/2021,Veum-Lehner,direct debit,£24.10,Toys
+14/Mar/2021,"Corkery, Gulgowski and Adams",internet,£40.11,Movies
+19/Nov/2021,Hoppe-Rutherford,card,£1.80,Music
+11/May/2024,"Ullrich, Conn and Shields",internet,£30.79,Home
+31/Mar/2023,Kshlerin-Weissnat,internet,£7.96,Music
+29/May/2024,Hartmann LLC,direct debit,£38.19,Baby
+01/Apr/2022,Hermiston-Dach,card,£20.27,Toys
+30/Dec/2024,"McClure, Smitham and Kertzmann",internet,£2.52,Baby
+30/Jan/2020,Mraz and Sons,card,£25.89,Clothing
+07/Aug/2022,Bergnaum Inc,direct debit,£3.15,Beauty
+14/Sep/2022,Mayert Inc,internet,£38.55,Sports
+17/Mar/2024,Cartwright-McClure,internet,£49.88,Music
+26/Jan/2022,"Heaney, Hyatt and Murray",internet,£2.08,Sports
+19/Nov/2024,"Runolfsson, Fadel and Weimann",direct debit,£47.09,Tools
+10/Jul/2023,Gusikowski-Hamill,internet,£43.34,Electronics
+05/Jan/2024,Sawayn and Sons,card,£42.59,Sports
+24/Oct/2021,"Gleichner, Yundt and DuBuque",internet,£45.06,Home
+30/Nov/2021,"Mayer, Hettinger and Lockman",card,£16.26,Shoes
+18/Jul/2021,"Stracke, Wunsch and Hane",internet,£6.73,Tools
+05/Oct/2021,Hoeger-Franecki,direct debit,£1.41,Movies
+30/Jan/2020,"Robel, Marvin and Hoppe",card,£32.10,Electronics
+27/Jan/2020,Casper LLC,direct debit,£34.67,Kids
+01/Nov/2023,Quitzon LLC,internet,£35.32,Garden
+13/Sep/2021,Orn-Klocko,card,£7.89,Shoes
+12/Jan/2022,"Bergstrom, Hudson and Orn",internet,£47.49,Jewelry
+22/Dec/2021,Ondricka LLC,card,£27.98,Games
+06/Nov/2021,"Hahn, Kub and Ziemann",card,£1.29,Garden
+22/Feb/2021,O'Hara-Ledner,internet,£20.94,Outdoors
+19/Dec/2020,Kuhic Group,direct debit,£36.26,Sports
+08/Apr/2020,"Conn, Beier and Auer",card,£45.48,Games
+10/May/2023,Hegmann and Sons,direct debit,£49.81,Clothing
+12/Feb/2022,"Ledner, Cronin and Ferry",direct debit,£12.66,Movies
+01/Mar/2023,Collins-Bahringer,direct debit,£3.81,Sports
+17/May/2020,Hand-Deckow,direct debit,£47.41,Computers
+24/Jul/2020,Jacobi-Stokes,direct debit,£5.70,Clothing
+21/Oct/2021,Schulist-Crona,card,£3.14,Outdoors
+29/Dec/2022,Jenkins-Johnson,internet,£30.48,Books
+27/Apr/2020,"Greenfelder, Monahan and Sawayn",card,£15.61,Electronics
+28/Nov/2022,Moore-Walsh,direct debit,£7.73,Computers
+12/Apr/2021,"Kuhlman, Ratke and Hilpert",card,£38.55,Shoes
+14/Sep/2024,"Runolfsdottir, Stanton and Barrows",direct debit,£19.52,Tools
+10/May/2022,Prohaska Inc,card,£14.03,Outdoors
+30/Oct/2021,"Auer, Mohr and Strosin",internet,£3.43,Electronics
+18/Sep/2024,"Mraz, Bednar and Heaney",card,£3.21,Tools
+15/Sep/2021,"O'Hara, Turcotte and Hermann",direct debit,£10.31,Toys
+28/Aug/2023,Rowe-Hartmann,card,£39.55,Shoes
+17/Aug/2021,Johns and Sons,card,£25.99,Books
+25/Jul/2021,"Satterfield, Bauch and Maggio",card,£43.78,Baby
+24/Mar/2022,"McKenzie, Grimes and Rogahn",internet,£39.87,Toys
+14/Dec/2023,"Hackett, Erdman and Boyer",direct debit,£28.68,Garden
+27/Jan/2020,Schulist-Block,direct debit,£33.66,Clothing
+25/Jan/2022,Doyle-Wuckert,internet,£24.55,Health
+02/Jun/2020,Wilderman-Berge,internet,£22.69,Tools
+07/Jan/2024,Kilback LLC,internet,£2.52,Books
+13/Mar/2021,Hammes LLC,card,£43.85,Beauty
+06/May/2020,Hayes Inc,direct debit,£43.72,Outdoors
+29/Jan/2023,Purdy Group,card,£3.40,Home
+08/Feb/2020,Wiza Group,direct debit,£17.04,Music
+21/Oct/2023,Lubowitz-Lehner,card,£43.09,Clothing
+22/Aug/2022,Runolfsdottir Inc,direct debit,£2.46,Shoes
+08/Jun/2022,Raynor-Crist,direct debit,£49.85,Games
+25/May/2020,Wolf-Fritsch,internet,£9.09,Automotive
+23/Oct/2021,Deckow-Kessler,internet,£34.52,Shoes
+10/Aug/2021,Shields-Toy,card,£36.77,Jewelry
+26/Mar/2020,Medhurst Group,internet,£22.62,Toys
+23/Feb/2023,Gerhold LLC,direct debit,£24.66,Games
+27/Jun/2022,"Greenfelder, Dach and Dickinson",card,£33.20,Garden
+24/Jan/2022,Koelpin-Schmitt,internet,£15.98,Computers
+25/Jun/2020,Steuber-Harber,internet,£37.81,Toys
+28/Apr/2024,Mohr-Kilback,direct debit,£48.59,Beauty
+01/Nov/2024,"McLaughlin, Klein and Olson",internet,£45.96,Toys
+31/Oct/2023,Ferry-Mertz,direct debit,£18.30,Computers
+23/May/2021,Dicki-Wintheiser,internet,£22.14,Tools
+04/Jul/2021,Gorczany and Sons,card,£8.17,Clothing
+05/Jan/2023,Rolfson LLC,internet,£4.75,Computers
+11/Jul/2022,"Sipes, O'Conner and O'Reilly",direct debit,£1.29,Movies
+22/Nov/2023,Stamm-Dicki,card,£15.18,Home
+11/Jan/2023,"Kris, Emmerich and Hansen",card,£16.33,Baby
+29/Jul/2020,"O'Reilly, Breitenberg and Mueller",card,£38.87,Jewelry
+09/Jun/2022,Stokes LLC,card,£11.91,Computers
+10/Apr/2024,Crooks-Gusikowski,internet,£22.19,Automotive
+25/Nov/2024,Trantow-Lehner,direct debit,£20.70,Outdoors
+01/Aug/2024,Marks-Boyer,direct debit,£40.75,Computers
+04/Feb/2024,Jakubowski LLC,card,£10.88,Shoes
+09/Dec/2024,Boehm-Gottlieb,card,£36.08,Shoes
+09/Jun/2024,Schamberger-Hartmann,internet,£35.39,Automotive
+02/Sep/2024,Krajcik Inc,card,£26.02,Toys
+15/Jun/2021,"Conn, O'Kon and Heathcote",direct debit,£22.39,Toys
+10/Aug/2020,McGlynn Inc,card,£20.88,Computers
+17/Sep/2023,"Batz, Botsford and Thompson",direct debit,£6.33,Sports
+13/Apr/2020,Sauer-Harris,internet,£14.70,Automotive
+18/Feb/2024,"VonRueden, West and Weimann",direct debit,£12.70,Computers
+16/May/2022,Sporer LLC,direct debit,£49.81,Shoes
+27/Aug/2022,Gerlach-Nader,internet,£33.40,Kids
+16/Nov/2020,Ebert-Kreiger,direct debit,£14.88,Movies
+27/Apr/2021,"Gerhold, Kihn and Morissette",internet,£18.02,Books
+22/Jan/2022,Nader-Keeling,card,£41.95,Kids
+08/Aug/2020,Metz-Blick,direct debit,£43.84,Computers
+16/Jul/2022,Conn Inc,internet,£41.42,Baby
+12/Sep/2023,Ebert-Halvorson,card,£17.16,Automotive
+30/Dec/2020,Tillman-Huels,internet,£18.69,Jewelry
+21/May/2024,"Kuphal, McClure and Beier",internet,£36.32,Electronics
+23/Mar/2024,"Bosco, Prohaska and Daniel",direct debit,£44.18,Games
+10/Feb/2023,Bogisich-Smitham,direct debit,£44.41,Electronics
+16/Dec/2022,Heathcote-Deckow,internet,£11.15,Shoes
+05/Sep/2024,"Vandervort, Ernser and McClure",internet,£43.00,Shoes
+18/Aug/2022,"Lind, Beahan and Cormier",direct debit,£1.94,Jewelry
+07/Nov/2020,Barton-Luettgen,internet,£19.55,Grocery
+27/May/2022,Fahey-Schneider,direct debit,£27.71,Sports
+05/Aug/2021,Johns LLC,direct debit,£15.18,Outdoors
+23/Mar/2020,Harvey-Willms,card,£35.02,Books
+08/May/2023,Mayer-Conn,card,£7.26,Toys
+24/Jul/2021,Greenholt-Sporer,card,£43.98,Books
+09/Jul/2022,Lemke-Homenick,direct debit,£33.17,Kids
+20/Mar/2021,"Vandervort, Langworth and McLaughlin",direct debit,£48.23,Jewelry
+14/Dec/2023,McClure-Mraz,internet,£14.57,Toys
+21/Jul/2023,"Fay, Blick and Armstrong",internet,£31.80,Books
+06/Apr/2023,Buckridge-Sauer,internet,£29.55,Beauty
+21/Jun/2022,Dach-Little,card,£49.65,Health
+12/Feb/2022,Klocko-Lehner,internet,£48.19,Health
+12/Jun/2024,"Bartell, Shanahan and Crist",card,£22.38,Movies
+11/Jan/2023,Goldner-Mayert,internet,£20.73,Garden
+22/Oct/2020,O'Hara-Hintz,direct debit,£26.23,Outdoors
+08/May/2021,"Bruen, McCullough and Reynolds",internet,£31.04,Garden
+28/Aug/2021,Rolfson Group,card,£30.03,Sports
+29/Dec/2020,Wilkinson-Veum,internet,£38.10,Books
+15/Apr/2020,Waters-Zulauf,internet,£33.30,Games
+21/Dec/2022,"Harvey, Bergnaum and Fisher",direct debit,£26.76,Movies
+12/Oct/2024,"Hauck, Wilderman and Keebler",internet,£48.22,Games
+21/May/2021,Hirthe-Thompson,internet,£48.18,Books
+10/Jun/2022,Kirlin-Turner,internet,£30.89,Outdoors
+24/Nov/2021,Gutmann-Schmidt,direct debit,£48.38,Computers
+06/Jun/2021,"Abshire, Doyle and Jones",internet,£32.39,Garden
+17/Jan/2023,Lueilwitz-Botsford,card,£20.20,Beauty
+29/Dec/2024,"Moen, Quitzon and Ward",card,£28.43,Shoes
+21/Feb/2024,Anderson and Sons,direct debit,£7.75,Health
+11/Nov/2023,Hodkiewicz-Ullrich,card,£45.71,Jewelry
+06/Nov/2021,Dietrich-Predovic,card,£19.02,Movies
+25/Oct/2020,Cassin and Sons,card,£7.78,Movies
+25/Nov/2024,Hettinger-Kohler,internet,£3.43,Beauty
+05/Oct/2024,"Feeney, Adams and Hagenes",card,£15.64,Automotive
+06/Aug/2022,"Schinner, Gibson and Altenwerth",direct debit,£20.22,Sports
+26/Apr/2020,"Wolff, Welch and Dibbert",card,£30.50,Clothing
+27/Jun/2023,"McKenzie, Greenholt and Schmeler",card,£19.21,Games
+21/Feb/2020,"Blanda, Kessler and Reichel",card,£31.96,Baby
+22/Jan/2021,Bogan LLC,internet,£28.54,Sports
+13/Jan/2022,"Leffler, Veum and Larkin",direct debit,£8.18,Music
+30/Jul/2020,Bahringer-Morar,direct debit,£34.30,Grocery
+17/Sep/2022,"Bechtelar, Osinski and Jaskolski",direct debit,£1.49,Home
+20/Mar/2021,Fay-Bartell,card,£21.20,Grocery
+17/Dec/2024,Schulist and Sons,internet,£5.59,Kids
+24/Sep/2020,Schmeler-Fisher,internet,£47.72,Books
+03/Aug/2020,Predovic Inc,card,£38.53,Kids
+21/Jun/2021,Schinner-Schuppe,card,£26.14,Kids
+10/Oct/2022,Quigley-Yost,card,£1.69,Tools
+15/Aug/2024,Klein-Keebler,card,£37.88,Home
+11/Apr/2022,D'Amore Inc,internet,£38.00,Computers
+23/Feb/2024,Marvin-Ruecker,card,£44.77,Baby
+27/Apr/2023,Collier Group,direct debit,£34.01,Games
+03/Apr/2024,"Quigley, Gleason and Legros",internet,£31.57,Movies
+24/Oct/2024,"Schiller, Lowe and Fay",card,£48.52,Computers
+31/Jul/2024,Welch and Sons,internet,£12.99,Kids
+13/Feb/2022,Dickinson Group,card,£30.72,Tools
+03/Jan/2021,Wilkinson-Stokes,internet,£45.12,Outdoors
+24/Apr/2020,Nikolaus-Willms,direct debit,£7.90,Clothing
+22/Sep/2023,Aufderhar Group,internet,£31.84,Clothing
+31/Jul/2020,Zulauf-Stracke,internet,£3.58,Games
+22/Jun/2023,"Morar, Upton and Luettgen",card,£11.96,Automotive
+29/Sep/2022,Kub-Deckow,internet,£49.16,Outdoors
+25/Aug/2020,Zieme LLC,card,£36.54,Outdoors
+14/Dec/2022,"Barton, Gutmann and Mertz",internet,£31.25,Books
+20/Jul/2023,Hartmann-Lindgren,card,£42.93,Garden
+03/Dec/2021,"Hickle, McLaughlin and Connelly",internet,£27.12,Books
+20/Apr/2021,Muller-Greenholt,internet,£42.74,Books
+22/Apr/2023,White Group,direct debit,£28.85,Games
+01/Nov/2024,Schowalter Group,card,£33.13,Tools
+20/Jun/2021,"Predovic, Veum and Bergnaum",direct debit,£24.30,Movies
+20/Nov/2024,"Koch, Ferry and Robel",card,£14.18,Computers
+19/Feb/2024,Baumbach-Senger,direct debit,£14.27,Books
+07/Jul/2020,"Balistreri, Erdman and Morar",card,£49.65,Jewelry
+05/Jun/2024,Rosenbaum-Stanton,direct debit,£25.78,Books
+19/Apr/2023,Heathcote-Walker,internet,£22.02,Computers
+06/Jun/2021,"Hickle, Botsford and Senger",direct debit,£17.61,Kids
+16/Mar/2022,"Abshire, Nicolas and Mueller",internet,£20.88,Home
+24/Feb/2023,Boyle-Huels,card,£41.09,Garden
+19/Sep/2024,Yundt-Strosin,internet,£1.90,Computers
+13/Sep/2022,"Greenfelder, Goyette and Keeling",card,£9.71,Garden
+05/Jan/2023,"Corwin, Beahan and Schamberger",direct debit,£36.77,Automotive
+07/Feb/2024,Dickens and Sons,card,£48.53,Sports
+05/Aug/2020,Ritchie-Lueilwitz,direct debit,£30.03,Beauty
+20/Apr/2022,"O'Conner, Beatty and Simonis",card,£16.62,Baby
+09/Dec/2023,Rippin-Beer,card,£10.70,Grocery
+06/Feb/2020,Casper Inc,direct debit,£23.45,Tools
+13/Aug/2023,King-Cormier,direct debit,£9.65,Computers
+27/Feb/2023,Bradtke and Sons,card,£33.44,Movies
+31/Oct/2021,Konopelski Group,internet,£15.88,Movies
+22/Aug/2021,"Schimmel, Huels and Kirlin",direct debit,£5.36,Kids
+11/Mar/2023,"Kirlin, Rolfson and Simonis",internet,£34.77,Home
+02/May/2020,"Harvey, Christiansen and Farrell",direct debit,£24.98,Beauty
+08/Sep/2020,O'Conner LLC,direct debit,£18.49,Kids
+20/Jan/2024,Reinger-Hyatt,card,£21.21,Sports
+28/Sep/2021,"Osinski, Hodkiewicz and Moen",direct debit,£6.74,Clothing
+18/May/2022,"Jaskolski, Cummings and Leuschke",direct debit,£3.62,Computers
+27/Jun/2022,"Hauck, Bogisich and Nitzsche",direct debit,£30.11,Industrial
+16/Sep/2021,Simonis-Wolff,card,£41.60,Electronics
+23/Feb/2024,Conn-Cummings,card,£32.67,Garden
+11/Jan/2021,Willms-Hyatt,card,£43.30,Jewelry
+08/May/2023,Hilpert-Carter,card,£38.24,Clothing
+19/Jul/2022,"Reichert, Schamberger and Toy",internet,£43.16,Electronics
+10/Oct/2021,Kilback-Schultz,internet,£30.93,Outdoors
+27/Sep/2020,Hintz and Sons,card,£34.24,Industrial
+17/Jan/2023,Kertzmann-Cremin,direct debit,£32.89,Beauty
+21/Dec/2021,Willms Group,card,£7.93,Sports
+13/Apr/2020,Huels Group,direct debit,£15.43,Computers
+02/Apr/2023,Cremin Inc,direct debit,£10.15,Grocery
+29/Mar/2023,Rohan-Keeling,card,£38.41,Computers
+22/Jun/2022,Mayer and Sons,card,£35.08,Games
+11/Jul/2022,"Heaney, Schroeder and Heller",direct debit,£15.63,Industrial
+11/Sep/2024,"Parker, Cummerata and Baumbach",internet,£45.56,Home
+16/Jul/2024,Mayer Group,internet,£38.19,Electronics
+10/Dec/2020,"Zieme, Nitzsche and Roberts",direct debit,£43.34,Clothing
+06/Feb/2020,"Bartell, Bogan and Kshlerin",card,£38.63,Sports
+07/Aug/2020,"Green, Bechtelar and Rohan",card,£12.54,Toys
+28/Nov/2021,Considine LLC,card,£34.20,Toys
+21/Oct/2024,"Rippin, Daniel and Robel",card,£33.61,Computers
+05/Dec/2021,"Hickle, O'Keefe and Hand",internet,£3.44,Clothing
