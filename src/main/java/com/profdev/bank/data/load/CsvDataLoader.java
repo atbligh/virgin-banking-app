@@ -14,11 +14,11 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.util.List;
 
-@Service(CsvDataLoader.BEAN_ID)
+@Service(CsvDataLoader.BEAN_QUALIFIER)
 @Slf4j
 public class CsvDataLoader implements DataLoader {
 
-    public static final String BEAN_ID = "csv";
+    public static final String BEAN_QUALIFIER = "csv";
 
     private final AppProperties appProperties;
 
