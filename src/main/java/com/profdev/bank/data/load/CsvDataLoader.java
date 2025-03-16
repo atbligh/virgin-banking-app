@@ -20,9 +20,9 @@ public class CsvDataLoader implements DataLoader {
 
     public static final String BEAN_ID = "csv";
 
-    private List<DataRecord> dataRecords;
-
     private final AppProperties appProperties;
+
+    private List<DataRecord> dataRecords;
 
     public CsvDataLoader(AppProperties appProperties) {
         this.appProperties = appProperties;
