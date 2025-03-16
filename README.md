@@ -1,7 +1,7 @@
 # Getting Started
 
 ### Requirements
-- Java 21
+- Java 21 (LTS)
 - Maven 3.8+
 
 This is a ```Maven Spring Boot``` project that can be run:
@@ -71,8 +71,10 @@ The ```maven-failsafe-plugin``` runs the integration tests during the Maven ```i
 
 ### Next Steps
 
-- Complete the tests in ```TransactionControllerTest``` and ```TransactionControllerIT```, there are ```TODO``` comments these classes for this.
+- Complete the tests in ```TransactionControllerTest``` and ```TransactionControllerIT```, there are ```TODO``` comments these classes for this
+- Add more unit tests to enhance application robustness
 - Replace the CSV data loading with a dedicated/separate data source
+- Possibly enhance the average spend per month for category endpoint to also group by year, the spec wasn't clear on that
 - Add a front end user interface
 - Add RESTful endpoint security
 - Build out a CI/CD pipeline
