@@ -2,6 +2,7 @@ package com.profdev.bank.service.result;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.profdev.bank.service.AmountFormatter;
+import com.profdev.bank.utils.MoneyUtils;
 import lombok.Builder;
 
 import java.math.BigDecimal;
@@ -17,7 +18,7 @@ public record AverageSpendPerMonthForCategory(
     public static class AverageSpendPerMonthForCategoryBuilder {
 
         public AverageSpendPerMonthForCategoryBuilder monetaryAmount(BigDecimal amount, AmountFormatter formatter) {
-            this.monetaryAmount = amount;
+            this.monetaryAmount = MoneyUtils.parse(amount);
             this.amount = formatter.format(this.monetaryAmount);
             return this;
         }

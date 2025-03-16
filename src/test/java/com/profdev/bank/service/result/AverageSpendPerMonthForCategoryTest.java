@@ -10,6 +10,7 @@ import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
 
 import java.math.BigDecimal;
+import java.math.RoundingMode;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.mockito.Mockito.when;
@@ -57,10 +58,30 @@ class AverageSpendPerMonthForCategoryTest {
     }
 
     @Test
+    void builderBuild_withValidMonetaryAmountMoreThanTwDecimalPlaces_shouldValueValuesCorrectly() {
+        // Given
+        String amount = "123.45678";
+        BigDecimal monetaryAmount = new BigDecimal(amount).setScale(2, RoundingMode.HALF_UP);
+
+        // When
+        AverageSpendPerMonthForCategory result = AverageSpendPerMonthForCategory.builder()
+                .category(GROCERIES)
+                .month(JANUARY)
+                .monetaryAmount(monetaryAmount, af)
+                .build();
+
+        // Then
+        assertEquals(GROCERIES, result.category());
+        assertEquals(JANUARY, result.month());
+        assertEquals(CURRENCY_SYMBOL + "123.46", result.amount());
+        assertEquals(monetaryAmount, result.monetaryAmount());
+    }
+
+    @Test
     void givenNegativeAmount_whenBuild_thenCorrectlyFormatted() {
         // Given
         String amount = "-123.45";
-        BigDecimal monetaryAmount = MoneyUtils.fromString(amount);
+        BigDecimal monetaryAmount = new BigDecimal(amount).setScale(2, RoundingMode.HALF_UP);
 
         // When
         AverageSpendPerMonthForCategory result = AverageSpendPerMonthForCategory.builder()
@@ -79,7 +100,7 @@ class AverageSpendPerMonthForCategoryTest {
     @Test
     void givenZeroAmount_whenBuild_thenCorrectlyFormatted() {
         // Given
-        BigDecimal monetaryAmount = MoneyUtils.parse(BigDecimal.ZERO);
+        BigDecimal monetaryAmount = BigDecimal.ZERO.setScale(2, RoundingMode.HALF_UP);
 
         // When
         AverageSpendPerMonthForCategory result = AverageSpendPerMonthForCategory.builder()
